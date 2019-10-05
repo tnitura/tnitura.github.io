@@ -1,0 +1,83 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(39, 19, 19);
+    text-shadow: 2px 2px 8px rgb(128, 105, 105);
+    font-family: 'IM Fell DW Pica', cursive;
+    margin: 0;
+    overflow: scroll;
+}
+
+#container {
+    margin: 0 auto;
+    background-color: rgba(190, 163, 126, 0.75);
+    background-size: auto;
+    width: 80%;
+    height: 100%;
+}
+
+#decor {
+    width: 70%;
+    margin: 5%;
+
+}
+
+#decorbottom {
+    width: 70%;
+    padding: 0;
+}
+
+h1 {
+    padding-top: 0;
+    margin-top: 0;
+    text-align: center;
+    font-size: 70px;
+    line-height: 60px;
+    text-shadow: 2px 2px 8px rgb(128, 105, 105);
+}
+
+h2 {
+    color: rgb(94, 29, 29);
+    font-family: 'Playfair Display', serif;
+}
+
+header {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#ampersand {
+    font-size: 90px;
+    font-family: 'Princess Sofia', cursive;
+    padding: 30px;
+    color: rgb(94, 29, 29);
+}
+
+#wedding {
+    font-size: 60px;
+}
+
+p {
+    padding: 40px;
+    text-shadow: 2px 2px 8px rgb(146, 126, 126);
+}
+
+#mainContent {
+    text-align: center;
+    font-size: 30px;
+    display: block;
+
+}
+
+footer {
+    text-align: center;
+    font-size: 22px;
+    bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 5%;
+    font-family: 'Playfair Display', serif;
+    color: rgb(94, 29, 29);
+}
